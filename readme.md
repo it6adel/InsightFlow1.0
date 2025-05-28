@@ -53,7 +53,7 @@ Follow these steps to set up and run the InsightFlow project locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/it6adel/InsightFlow.git
+    git clone https://github.com/it6adel/InsightFlow1.0.git
     cd InsightFlow
     ```
 
